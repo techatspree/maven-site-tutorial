@@ -1,0 +1,15 @@
+ -----
+ Regular Maven Site
+ -----
+ Regular Maven Site
+ -----
+
+Maven Site for your project
+
+ Congratulations! If you are looking at this page then you have successfully generated a regular maven site:
+
++-----+
+
+mvn site
+
++-----+
