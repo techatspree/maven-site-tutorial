@@ -17,6 +17,13 @@
         <module>fluido-site</module>
         <module>markdown-site</module>
         <module>vm-site</module>
+        <module>github-site</module>
     </modules>
+
+    <scm>
+        <connection>scm:git:git@github.com:akquinet/maven-site-tutorial.git</connection>
+        <url>https://github.com/akquinet/maven-site-tutorial</url>
+        <developerConnection>scm:git:git@github.com:akquinet/maven-site-tutorial.git</developerConnection>
+    </scm>
     
 </project>
